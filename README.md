@@ -2,7 +2,7 @@
 - 👀 I’m interested in Website and App development
 - 🌱 I’m currently learning Python, CSS, HTML
 - 📫 How to reach me dlhendricks87@gmail.com you can also reach my company Elevate CS at elevatecorecs@gmail.com
-- 😄 Pronouns: She?Her
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a Psychology Major but been in the tech space for most of my career.
 
 <!---
